@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gisfahad
+- 👋 Hi, I’m a GIS Engineer
 - 👀 I’m interested in GIS and emerging technologies like Python, AI, AR, etc
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on GIS and Remote Sensing field
+- 💞️ I’m looking to collaborate on GIS and Remote Sensing inquiries.
 - 📫 How to reach me ...
 
 <!---
